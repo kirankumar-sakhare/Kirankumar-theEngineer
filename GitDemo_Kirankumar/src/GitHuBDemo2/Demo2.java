@@ -7,6 +7,7 @@ public class Demo2
 		System.out.println("Hello GitHub");
 		System.out.println("I am back");
 		System.out.println(" cost of bullet one pound sterling to the empire ");
+		System.out.println("It's time to hit the book");
 	}
 
 }
